@@ -7,3 +7,4 @@
 5. Conditions
 6. Loops
 7. Misc
+8. colors in shell
