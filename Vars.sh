@@ -12,3 +12,4 @@ DATE=$(date +%F)
 echo "Todays date is:  $DATE"
 echo "using git hub repo"
 echo "github connection establishe in azure repos"
+echo "connection between github and azure repe established"
