@@ -2,6 +2,8 @@
 var=10
 abc=chandu
 Float=2.3
+Num=5
+readonly Num #  readonly variable cannot be modified its like constant
 echo "var=$var, abc=$abc,Float=$Float"
 echo  "please enter ur name :" name
 read name
