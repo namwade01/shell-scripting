@@ -12,3 +12,5 @@ Array=(2 4 8 9)
 echo "index at 2=>:${Array[2]}"
 DATE=$(date +%F)
 echo "Todays date is:  $DATE"
+echo "connection from github to repo"
+
